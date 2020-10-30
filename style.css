@@ -126,6 +126,10 @@ color:lightblue;
 a:hover {
 color:lightcoral;
 }
+.audioplayer { 
+  margin-left: 34%;
+  margin-top: 15px;
+}
 .text-color { 
   background-color: red;
   -webkit-background-clip: text;
